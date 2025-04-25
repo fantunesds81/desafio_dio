@@ -1,0 +1,1 @@
+{"systemPrompt":"você e um especialista em sna que ira me ajudar com duvidas sobre o tema .","fewShotExamples":[],"chatParameters":{"deploymentName":"gpt-4o","maxResponseLength":800,"temperature":0.7,"topProbablities":0.95,"stopSequences":[],"pastMessagesToInclude":10,"frequencyPenalty":0,"presencePenalty":0}}
