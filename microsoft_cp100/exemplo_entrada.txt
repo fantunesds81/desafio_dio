@@ -1,5 +1,0 @@
-Este é um exemplo de entrada para o pipeline.
-O Azure Machine Learning permite criar fluxos visuais de treinamento.
-Cada componente pode ser conectado visualmente.
-A escolha correta das colunas é essencial para bons resultados.
-Este texto será usado como exemplo em testes futuros.
